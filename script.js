@@ -1,4 +1,6 @@
-document.getElementById("year").textContent = new Date().getFullYear();
+document.querySelectorAll(".year").forEach((item) => {
+  item.textContent = new Date().getFullYear();
+});
 
 const timelineItems = {
   genesis: {

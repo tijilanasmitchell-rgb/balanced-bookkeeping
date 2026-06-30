@@ -4,15 +4,14 @@ A polished static portfolio site ready for GitHub Pages.
 
 ## Personalize
 
-Edit `index.html` and replace:
+Edit the HTML pages and replace anything you want to tailor further:
 
-- `Your Name`
-- `YN`
-- `you@example.com`
-- `yourusername`
-- project titles and descriptions
-- experience entries
-- skills
+- `index.html` for the homepage
+- `services.html` for service offerings
+- `portfolio.html` for projects
+- `resume.html` for the interactive resume timeline
+- `skills.html` for strengths and tools
+- `contact.html` for contact details
 
 ## Preview Locally
 
